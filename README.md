@@ -1,4 +1,4 @@
-- 👋 olá, meu nome é Janaína
+- 👋 olá, sou Janaína
 - 👀 estou aprendendo programação
 - 🌱 sou aluno de pensamento computacional
 - 💞️ estou aprendendo a trabalhar com HTML
