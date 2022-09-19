@@ -1,8 +1,8 @@
 - 👋 olá, meu nome é Janaína
-- 👀 I’m interested in programação
-- 🌱 I’m currently learning ...programação
-- 💞️ I’m looking to collaborate on páginas web
-- 📫 How to reach me janaina.barboza@escola.pr.gov.br
+- 👀 estou aprendendo programação
+- 🌱 sou aluno de pensamento computacional
+- 💞️ estou aprendendo a trabalhar com HTML
+- 📫 email janaina.barboza@escola.pr.gov.br
 
 <!---
 Janaina22/Janaina22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
